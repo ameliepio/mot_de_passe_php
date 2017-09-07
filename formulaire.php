@@ -1,4 +1,5 @@
 
+  <link rel="stylesheet" href="main.css">
 
 <!-- <form action="secret.php" method="post"enctype="multipart/form-data">
 
@@ -17,6 +18,8 @@ if (isset($_POST["mdp"]) AND $_POST["mdp"] == "kangourou"){
  }else{
 
   ?>
+
+
 
    <form action="formulaire.php" method="post" enctype="multipart/form-data">
 
