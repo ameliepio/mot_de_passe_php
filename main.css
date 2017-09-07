@@ -99,10 +99,17 @@ textarea {
 
 body {
 
-  background-color: grey;
+
+background-image:url(img/images.jpeg);
+background-repeat: no-repeat;
+ background-size: 100%;
+
+  /*background-color: grey;*/
   display: flex;
   justify-content: space-around;
   padding-top: 15%;
+  color:blue;
+  font-size: 35px;
 
 /*
 #corps{
